@@ -6,14 +6,14 @@ Version 2 of Portfolio Website
 2) Resume <br>
 3) Communities <br>
 4) Terminal <br>
+5) Articles <br>
 
 # Sections to be added:
-1) Articles <br>
-2) Certificates <br>
-3) Projects <br>
+1) Certificates <br>
+2) Projects <br>
 
 # Current Tasks:
 1) Change Cursor to green solid dot.
 2) Cursor Typing Intro
 3) Solid background (animated type)
-4) Articles (carousel type)
+4) Preloading spinner
