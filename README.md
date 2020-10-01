@@ -1,4 +1,4 @@
-# portfolio
+# My Portfolio Website
 Version 2 of Portfolio Website
 
 # List of parts done:
