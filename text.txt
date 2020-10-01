@@ -1,0 +1,26 @@
+﻿<span id="a">vineethm1627</span>:<span id="b">~</span><span id="c">$</span> cd M.Vineeth/
+<span id="a">vineethm1627</span>:<span id="b">~/M.Vineeth/</span><span id="c">$</span> cat ABOUT_ME.txt
+<br>
+
+Hello, my name is Vineeth. 😃<br>
+
+I am currently pursuing Bachelors of Technology in Computer Science and Engineering at Bennett University, Greater Noida.
+<hr>
+<b><i> ML & DL Enthusiast | SIH'2020 Grand Finalist | Mentor, Speaker | Country Manager, India @ Script Foundation| Fellow @ IncubateIND | Mentor @ Garuda Hacks | Deep Learning Mentor @ Leadingindia.ai | Machine Learning Mentor @ GirlScript Technologies Pvt. Ltd. | AWS Machine Learning Scholar @ Udacity | Machine Learning Intern @ Internity Foundation[Best Machine Learning Intern Award] | President @ Computer Society of India, Student Chapter | Ascend Select Member @ Harvard Business Review | Community Manager @ Edudictive | Technical Content Writer @ Analytics Vidhya | ex-Intern @ TechnipFMC| ex Mentor and Judge at Def Hacks() 2020 | ex Organizer and Mentor @ Hack in India Hackathon | Mentor @ Hack Against Covid, codezoned, Mentor @ Delhi Hacks 2020 and lot more ....</i></b>
+<hr>
+-🔁My learning motto : "Strong intuitions come with strong applied knowledge."
+-🗓️Disciplined, Time bound, works out everything will full dedication and focus.
+-📜Deep Learning and Machine Learning Enthusiast.
+-♾️In love with Mathematics and Algorithms.
+-💯Constant, consistent learner for life.
+<hr>
+I am an avid AI, ML and DL lover. I have intensely interned, mentored and completed lots of courses and project works in this field. <br>
+For more details about me, connect with me on : <a href="https://www.linkedin.com/in/vineeth-m-318695170/"> LinkedIn </a><br>
+I am passionate about technologies, algorithms and problem solving. I love to have discussions on solutions to new problems.<br>
+My core competency lies in <b> Team Leadership </b>. I have always focussed on team building and always believe in working together.<br>
+
+My other profiles include: <a href="https://github.com/vineethm1627"> GitHub</a> |<a href="https://twitter.com/vineethm1627"> Twitter </a> | <a href="https://www.hackerrank.com/mv3451?hr_r=1"> Hackerrank</a> | <a href="https://www.codechef.com/users/mv3451"> Codechef </a> | <a href="https://www.instagram.com/vineeth_m16"> Instagram</a>.
+<br>
+Feel free to send me an email at <a href="mailto:vinscoder1627@gmail.com">vinscoder1627@gmail.com</a>.
+<br>
+<span id="a">vineethm1627</span>:<span id="b">~/M.Vineeth/</span><span id="c">$</span> exit
