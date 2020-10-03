@@ -2,18 +2,21 @@
 Version 2 of Portfolio Website
 
 # List of parts done:
-1) About <br>
-2) Resume <br>
-3) Communities <br>
-4) Terminal <br>
-5) Articles <br>
+1) About Me
+2) Resume 
+3) Community Roles
+4) Terminal 
+5) Articles 
+6) Animated particles background.
 
 # Sections to be added:
-1) Achievements <br>
-2) Projects <br>
+1) Achievements
+2) Projects 
+3) Chatbot (prefereably self built in Semester-06)
+4) Calendly etc to schedule meetings with me.
 
 # Current Tasks:
 1) Change Cursor to green solid dot.
 2) Cursor Typing Intro
-3) Solid background (animated type)
-4) Preloading spinner
+3) Preloading spinner (VVIMP)
+4) Achievements 
