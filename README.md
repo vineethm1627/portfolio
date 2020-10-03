@@ -9,7 +9,7 @@ Version 2 of Portfolio Website
 5) Articles <br>
 
 # Sections to be added:
-1) Certificates <br>
+1) Achievements <br>
 2) Projects <br>
 
 # Current Tasks:
