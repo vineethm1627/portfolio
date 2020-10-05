@@ -2,8 +2,7 @@
 Version 2 of Portfolio Website
 
 # Website Link :
-[netlify](https://vineethm.netlify.app) <br>
-[heroku](https://vineethm.herokuapp.com)
+[portfolio website](https://vineethm.tech)
 
 # List of parts done:
 1) About Me
