@@ -5,7 +5,6 @@ Version 2 of Portfolio Website
 [.tech](https://vineethm.tech) |
 [netlify](https://vineethm.netlify.app) |
 [heroku](https://vineethm.herokuapp.com) |
-[github pages](https://vineethm.github.io/portfolio) 
 
 # List of parts done:
 1) About Me
