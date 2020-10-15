@@ -1,17 +1,3 @@
-/**
-* Template Name: Personal - v2.3.0
-* Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
-//custom cursor js
-/** new kursor({
-  type: 2,
-  removeDefaultCursor: true,
-  color: "#32CD32",
-}); */
-
 
 !(function($) {
   "use strict";
