@@ -1,3 +1,12 @@
+
+new kursor({
+  type: 2,
+  removeDefaultCursor: true,
+  color: "#32CD32",
+});
+
+
+
 var TxtRotate = function(el, toRotate, period) {
   this.toRotate = toRotate;
   this.el = el;
