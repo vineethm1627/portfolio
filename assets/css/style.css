@@ -513,6 +513,9 @@ section .container {
 .testimonials .testimonial-item {
   box-sizing: content-box;
   min-height: 320px;
+  border: 2px solid rgb(255, 255, 255);
+  margin-left: 2px;
+  margin-right: 2px; 
 }
 
 .testimonials .testimonial-item .testimonial-img {
