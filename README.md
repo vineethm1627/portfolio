@@ -13,6 +13,8 @@ Version 2 of Portfolio Website
 4) Terminal 
 5) Articles 
 6) Animated particles background.
+7) Cursor Typing Intro
+8) Change Cursor to green solid dot
 
 # Sections to be added:
 1) Achievements
@@ -21,7 +23,7 @@ Version 2 of Portfolio Website
 4) Calendly etc to schedule meetings with me.
 
 # Current Tasks:
-1) Change Cursor to green solid dot.
-2) Cursor Typing Intro
-3) Preloading spinner (VVIMP)
-4) Achievements 
+1) Preloading spinner (VVIMP)
+2) adding coming soon in projects section.
+3) Achievements
+
